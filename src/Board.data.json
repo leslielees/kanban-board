@@ -1,0 +1,32 @@
+{
+    "lists":[
+        {
+            "id" : 1,
+            "title" : "My List 1",
+            "tasks" : [
+                {
+                    "id" : 1,
+                    "title" : "My Task 1"
+                },
+                {
+                    "id" : 2,
+                    "title" : "My Task 2"
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "title" : "My List 2",
+            "tasks" : [
+                {
+                    "id" : 1,
+                    "title" : "My Task 1"
+                },
+                {
+                    "id" : 2,
+                    "title" : "My Task 2"
+                }
+            ]
+        }
+    ]
+}
